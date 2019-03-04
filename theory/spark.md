@@ -6,6 +6,6 @@
 
 ## Spark Streaming
 
-(酷玩解析 Spark Streaming & Spark Structed Streaming)[https://github.com/HanibalGK/CoolplaySpark.git]
+[酷玩解析 Spark Streaming & Spark Structed Streaming](https://github.com/HanibalGK/CoolplaySpark.git)
 
 ## Spark GraphX
